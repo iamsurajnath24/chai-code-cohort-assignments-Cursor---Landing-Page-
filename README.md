@@ -43,8 +43,5 @@ Accent:
 ## Live Demo Link
   https://iamsurajnath24.github.io/chai-code-cohort-assignments-Cursor---Landing-Page-/
 
-## Screenshots
-
-Screenshot 2026-02-13 143129.png
 
 
